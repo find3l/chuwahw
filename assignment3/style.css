@@ -1,0 +1,19 @@
+div {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  color: darkred;
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+}
+select {
+  background-color: lightgray;
+}
